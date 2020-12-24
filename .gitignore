@@ -18,3 +18,5 @@
 /build
 /.gradle/6.1.1/fileContent/fileContent.lock
 /src/main/kotlin/org/jetbrains/teamcity/rest/Example.kts
+/swagger-codegen-cli.jar
+/teamcity-client-codegen.jar
