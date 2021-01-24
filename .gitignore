@@ -20,3 +20,4 @@
 /src/main/kotlin/org/jetbrains/teamcity/rest/Example.kts
 /swagger-codegen-cli.jar
 /teamcity-client-codegen.jar
+/swagger.json
